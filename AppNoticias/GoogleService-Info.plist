@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>396523015330-aon0sq1cqrka9rp6gjr8k7e8uigcivo2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.396523015330-aon0sq1cqrka9rp6gjr8k7e8uigcivo2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD7XLPlZwK-nyKx1IyDG-popS2W1ZfPcdo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>396523015330</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alissonwilliam.AppNoticias</string>
+	<key>PROJECT_ID</key>
+	<string>aula-ebac-c15b5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aula-ebac-c15b5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:396523015330:ios:1352e1a95cd08233295bfb</string>
+</dict>
+</plist>
